@@ -867,9 +867,9 @@ li {
 	}
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
 	.about-me__image {
-		width: 350px;
+		width: 300px;
 	}
 }
 
