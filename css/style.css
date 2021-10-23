@@ -725,12 +725,12 @@ li {
 	}
 
 	.header {
-		padding: 50px 0;
+		padding: 30px 0;
 		min-height: 100vh;
 	}
 
 	.header__offer {
-		margin: 100px 0 100px;
+		margin: 120px 0 120px;
 	}
 
 	.header__button {
