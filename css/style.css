@@ -635,6 +635,10 @@ li {
 		font-size: 30px;	
 	}
 
+	.header__title {
+		width: 170px;
+	}
+
 	.flex__work__columns {
 	    flex-direction: column;
 	}
@@ -730,7 +734,7 @@ li {
 	}
 
 	.header__offer {
-		margin: 120px 0 120px;
+		margin: 110px 0 110px;
 	}
 
 	.header__button {
@@ -861,11 +865,9 @@ li {
 }
 
 
-@media screen and (max-width: 530px){
-	.header__title {
-			width: 170px;
-		}
-}	
+/*@media screen and (max-width: 530px){
+	
+}*/	
 
 @media screen and (min-width: 530px) {
 	.header__head__telephone {
