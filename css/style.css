@@ -728,11 +728,6 @@ li {
 		font-size: 13px;
 	}
 
-	.header {
-		padding: 30px 0;
-		/*min-height: 100vh;*/
-	}
-
 	.header__offer {
 		margin: 110px 0 110px;
 	}
