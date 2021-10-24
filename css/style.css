@@ -142,6 +142,11 @@ li {
 	font-weight: 900;
 }
 
+.header__button:active {
+	background-color: #a50000;
+	transition-duration: 0.4s;
+}
+
 .header__media {
 
 }
@@ -245,6 +250,11 @@ li {
     text-decoration: none;
     text-align: center;
     padding: 14px 69px;
+}
+
+.options__button:active {
+	transition-duration: 0.4s;
+	background-color: #a50000;
 }
 
 
@@ -446,6 +456,11 @@ li {
 	padding: 12px 72px 13px 71px;
 }
 
+.item__btn:active {
+	transition-duration: 0.4s;
+    background-color: #a50000;
+}
+
 /*Contacts*/
 .contacts {
 	margin: 80px 0px;
@@ -504,6 +519,11 @@ li {
 	font-weight: 900;
 	border:0;
 	cursor: pointer;
+}
+
+.contacts__button:active {
+	transition-duration: 0.4s;
+    background-color: #a50000;
 }
 
 /*Footer*/
@@ -726,6 +746,10 @@ li {
 
 	p {
 		font-size: 13px;
+	}
+
+	.header {
+		max-height: 100vh;
 	}
 
 	.header__offer {
