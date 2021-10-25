@@ -556,7 +556,9 @@ li {
 	color: #ffffff;
 }
 
-
+.animated {
+	opacity: 0;
+}
 
 
 
